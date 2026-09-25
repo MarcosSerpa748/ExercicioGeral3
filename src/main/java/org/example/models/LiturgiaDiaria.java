@@ -1,6 +1,4 @@
-package org.example;
-
-import org.example.models.Today;
+package org.example.models;
 
 public record LiturgiaDiaria(Today today) {
 }
